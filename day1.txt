@@ -1,0 +1,3 @@
+this is day1 file.it is practice for git and gitHub.ok.
+git is very easy and interesting.
+but it is uncommon different type of things.

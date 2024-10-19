@@ -1,0 +1,1 @@
+this is day2 file. It is for git practice. 
